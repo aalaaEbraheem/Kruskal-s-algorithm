@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kruskal’s algorithm", "Kruskal’s algorithm.csproj", "{5BFB9B9E-A772-4A92-842B-6CD9293A2066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFB9B9E-A772-4A92-842B-6CD9293A2066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFB9B9E-A772-4A92-842B-6CD9293A2066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFB9B9E-A772-4A92-842B-6CD9293A2066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFB9B9E-A772-4A92-842B-6CD9293A2066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8393F129-2020-4608-BCF7-570D6D38CD90}
+	EndGlobalSection
+EndGlobal
