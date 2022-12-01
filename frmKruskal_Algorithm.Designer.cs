@@ -63,6 +63,7 @@
             // 
             this.btnClear.Appearance.Font = new System.Drawing.Font("Dubai", 15F);
             this.btnClear.Appearance.Options.UseFont = true;
+            this.btnClear.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnClear.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btnClear.ImageOptions.SvgImage")));
             this.btnClear.Location = new System.Drawing.Point(12, 12);
             this.btnClear.Name = "btnClear";
@@ -140,8 +141,10 @@
             // 
             // frmKruskal_Algorithm
             // 
+            this.AcceptButton = this.btnSolve;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnClear;
             this.ClientSize = new System.Drawing.Size(853, 537);
             this.Controls.Add(this.layoutControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -151,6 +154,7 @@
             this.Name = "frmKruskal_Algorithm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kruskal’s algorithm";
+            this.Load += new System.EventHandler(this.frmKruskal_Algorithm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).EndInit();
             this.layoutControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Root)).EndInit();

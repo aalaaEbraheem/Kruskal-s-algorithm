@@ -59,3 +59,64 @@ D:\Collage\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.csproj.CoreComp
 D:\Collage\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.csproj.CopyComplete
 D:\Collage\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.exe
 D:\Collage\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.pdb
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\Kruskal’s algorithm.exe.config
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\Kruskal’s algorithm.exe
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\Kruskal’s algorithm.pdb
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.csproj.AssemblyReference.cache
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.csproj.SuggestedBindingRedirects.cache
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal_s_algorithm.frmCost.resources
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal_s_algorithm.frmKruskal_Algorithm.resources
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal_s_algorithm.Properties.Resources.resources
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.csproj.GenerateResource.cache
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.exe.licenses
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.csproj.CoreCompileInputs.cache
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.csproj.CopyComplete
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.exe
+D:\Collage\Kruskal’s algorithm\Kruskal’s algorithm\obj\Debug\Kruskal’s algorithm.pdb
